@@ -1,4 +1,8 @@
 The Lord is good
 Welcome to Acada Learning
-i so much regret confessing to her despite struggling with myself all this years hoping that if i would feel relifed opening to her
+
+<<<<<<< HEAD
 Git and git hub
+=======
+i have just added the a new line in testfile.txt
+>>>>>>> debug
